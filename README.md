@@ -1,25 +1,28 @@
 <div align="center">
   
-  <h2>Sankarsaan Mandal</h2>
+  <h1>Hi, I'm Sankarsaan Mandal 👋</h1>
   
-  <p><em>Computer Science & Engineering Undergraduate @ Indian Institute of Technology Guwahati</em></p>
+  <p><em>Bridging the gap between Low-Level Hardware Architecture and High-Level AI</em></p>
+  
+  <p><b>Computer Science & Engineering Undergraduate @ Indian Institute of Technology Guwahati</b></p>
   
   <p>
-    <a href="https://github.com/Sankarsaan">GitHub</a> • 
-    <a href="https://codeforces.com/profile/Prof_Shonku">Codeforces (Specialist)</a> • 
-    <a href="mailto:sankarsaan06@gmail.com">Email</a>
+    <a href="https://www.linkedin.com/in/sankarsaan-mandal-185028313/?originalSubdomain=in"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="https://codeforces.com/profile/Prof_Shonku"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" /></a>
+    <a href="mailto:sankarsaan06@gmail.com"><img src="https://img.shields.io/badge/Personal_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Personal Email" /></a>
+    <a href="mailto:m.sankarsaan@iitg.ac.in"><img src="https://img.shields.io/badge/Institute_Email-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Institute Email" /></a>
   </p>
 
 </div>
 
 ---
 
-### ⚡ Current Focus
+### ⚡ What I'm Up To
 
-* **Studying:** Pursuing my B.Tech at IIT Guwahati with a current CGPA of 9.64. Successfully qualified JEE Advanced, JEE Mains, and WBJEE in 2024.
-* **Building:** A High-Performance 5-Stage Pipelined Processor in Verilog and a Neural Network model for Handwritten Digit Recognition.
-* **Leading:** Served as the City Representative for Technothlon (Bankura, West Bengal), proctoring exams for 400+ students and building school partnerships.
-* **Competing:** Codeforces Specialist (Highest Rating: 1421). Achieved a Global Rank of 845 among 15,000+ participants in a Div. 4 contest, and ranked under 3500 in Codefest 2026 India Prelims. Participated in ICPC India Preliminary Contests.
+* **🔭 Studying:** Navigating my B.Tech at IIT Guwahati with a current **CGPA of 9.64**. I cleared JEE Advanced, JEE Mains, and WBJEE in 2024 to get here.
+* **💻 Building:** Currently engineering a High-Performance 5-Stage Pipelined Processor in Verilog and refining a Neural Network model for Handwritten Digit Recognition.
+* **🤝 Leading:** Previously served as the City Representative for Technothlon (Bankura, West Bengal), where I managed and proctored exams for over 400 students while building vital school partnerships.
+* **🏆 Competing:** Codeforces Specialist under the handle **[Prof_Shonku](https://codeforces.com/profile/Prof_Shonku)** (Peak Rating: 1421). I recently secured a Global Rank of 845 among 15,000+ participants in a Div. 4 contest and frequently compete in ICPC India Prelims.
 
 <br>
 
@@ -44,27 +47,31 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
 </p>
 
-`Hardware Design` `Verilog` `Machine Learning` `Data Structures & Algorithms`
+`Hardware Design` `Verilog` `Machine Learning` `Data Structures & Algorithms` `Competitive Programming`
 
 <br>
 
-### 📑 Featured Projects
+### 📑 Featured Engineering & Code
 
 **↗ [High-Performance 5-Stage Pipelined Processor](https://github.com/Sankarsaan)**
-> <span style="color:gray;">**Stack:** Verilog</span>
+> <span style="color:gray;">**Architecture:** Verilog</span>
 
-Developed Fetch, Decode, and Execute pipeline stages; engineered a synchronous hazard control unit to minimize average stalls and overall CPI. Integrated a Branch Target Buffer (BTB) and LRU L1 cache to optimize branch prediction and significantly reduce memory latency.
+Engineered a robust hardware pipeline (Fetch, Decode, Execute) featuring a custom synchronous hazard control unit that drastically minimizes average stalls and overall CPI. Integrated a Branch Target Buffer (BTB) and an LRU L1 cache, significantly optimizing branch prediction and slashing memory latency. Validated hardware accuracy via FPGA synthesis.
 
 <br>
 
-**↗ [Handwritten Digit Recognition Prototype](https://github.com/Sankarsaan)**
+**↗ [Handwritten Digit Recognition AI](https://github.com/Sankarsaan)**
 > <span style="color:gray;">**Stack:** Python, TensorFlow, Keras</span>
 
-Built a Neural Network to classify handwritten digits (MNIST) utilizing a multi-layer architecture and ReLU activation. Achieved 97% test accuracy; implemented data normalization pipelines and optimized using Adam.
+Architected a Multi-Layer Neural Network to classify handwritten digits from the MNIST dataset. Deployed ReLU activation functions and the Adam optimizer alongside rigorous data normalization pipelines to achieve a 97% test accuracy.
 
 <br>
 
 **↗ [Production-Grade Red-Black Tree](https://github.com/Sankarsaan)**
 > <span style="color:gray;">**Stack:** C++</span>
 
-Developed a production-grade Red-Black Tree to ensure O(log n) operations. Engineered a custom benchmarking suite that reduced tree height by 99.7% compared to standard BSTs, and utilized the Sentinel Node Pattern alongside recursive destructors to guarantee zero memory leaks.
+Developed a highly optimized, production-grade Red-Black Tree guaranteeing O(log n) operations. Engineered a custom benchmarking suite proving a 99.7% tree height reduction compared to standard BSTs on sorted datasets. Implemented the Sentinel Node Pattern and recursive destructors to ensure zero memory leaks.
+
+<br>
+
+---
