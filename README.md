@@ -20,7 +20,7 @@
 ### ⚡ What I'm Up To
 
 * **🔭 Studying:** Navigating my B.Tech at IIT Guwahati with a current **CGPA of 9.64**. I cleared JEE Advanced, JEE Mains, and WBJEE in 2024 to get here.
-* **💻 Building:** Currently engineering a High-Performance 5-Stage Pipelined Processor in Verilog and refining a Neural Network model for Handwritten Digit Recognition.
+* **💻 Building:** Currently engineering a High-Performance 5-Stage Pipelined Processor in Verilog, while concurrently developing a low-level C++ system project and a modern full-stack web application.
 * **🤝 Leading:** Previously served as the City Representative for Technothlon (Bankura, West Bengal), where I managed and proctored exams for over 400 students while building vital school partnerships.
 * **🏆 Competing:** Codeforces Specialist under the handle **[Prof_Shonku](https://codeforces.com/profile/Prof_Shonku)** (Peak Rating: 1421). I recently secured a Global Rank of 845 among 15,000+ participants in a Div. 4 contest and frequently compete in ICPC India Prelims.
 
