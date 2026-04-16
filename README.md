@@ -24,7 +24,7 @@ Welcome to my GitHub profile! I am a highly motivated Computer Science undergrad
 ## 🏆 Achievements & Competitive Programming
 
 * **Codeforces:** Specialist (Handle: Prof_Shonku) with a highest rating of 1421. Achieved a global rank of 845 among 15,000+ participants in a Div. 4 contest.
-* **Contests:** Ranked under 3500 among 15,000 candidates in Codefest 2026 India Prelims. Participated in the ICPC India 2025 and 2026 Preliminary Online Contests.
+* **Contests:** Ranked under 3500 among 15,000 candidates in Codefest 2026 India Prelims. Participated in the ICPC India 2025 Preliminary Online Contests.
 * **Examinations:** Successfully qualified JEE Advanced, JEE Mains, and WBJEE in 2024.
 
 ## 📫 Get in Touch
